@@ -1,4 +1,10 @@
-## Hi there 👋
+# Welcome to my world.
+
+Good day 👋. It's nice to meet you, my name is Robin, a novice code editor with grand ambitions. If you're here you probably would like to know more about me. Let's go over that!
+
+## About Me
+
+I've been a nerd about computers since I was young, obtaining my first personal computer, a chunky *Dell* laptop, at the age of 7 years old, gifted to me by my father. Growing up in the relatively small town of Manteca CA did not offer me many opportunities, so as soon as I was able I took a journey to the Bay Area, where I now find myself to be in attendence at [San Francisco State University](https://www.sfsu.edu/), studying the world of Computer Science.
 
 <!--
 **RubeculaBee/RubeculaBee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
